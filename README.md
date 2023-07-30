@@ -17,7 +17,7 @@
 
  ![Leetcode Stats](https://leetcard.jacoblin.cool/Sharma3142857?ext=heatmap)
 
- ![Snake animation](https://github.com/shreshth3142857/shreshth3142857/assets/96594936/d9384d72-9ac5-4c51-bf28-e9fb86ecd585)
+ 
 
 
 
