@@ -17,6 +17,8 @@
 
  ![Leetcode Stats](https://leetcard.jacoblin.cool/Sharma3142857?ext=heatmap)
 
+ ![snake gif](https://github.com/shreshth3142857/shreshth3142857/blob/output/github-contribution-grid-snake.gif)
+
  
 
 
