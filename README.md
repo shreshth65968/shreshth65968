@@ -6,14 +6,14 @@
 
 - 🔭 I’m currently working on Machine Learning and Artificial Intelligence Projects
   
-- 🌱 I’m currently learning Full Stack web development
+- 🌱 I’m currently learning Full Stack web development                       ![Leetcode Stats](https://leetcard.jacoblin.cool/Sharma3142857?ext=heatmap)
   
 - 👯 I’m looking to collaborate on datasets and bugs
    
 - 📫 How to reach me: https://www.linkedin.com/in/shreshth-s-619230260/
 
 
-     ![Leetcode Stats](https://leetcard.jacoblin.cool/Sharma3142857?ext=heatmap)
+
 
 
 
