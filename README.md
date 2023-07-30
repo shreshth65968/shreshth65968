@@ -12,7 +12,8 @@
    
 - 📫 How to reach me: https://www.linkedin.com/in/shreshth-s-619230260/
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,python,flask,c,c++)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,python,flask,c,c++)](https://skillicons.dev)
 
   
 
