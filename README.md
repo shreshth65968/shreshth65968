@@ -4,9 +4,12 @@
 <!--**shreshth3142857/shreshth3142857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Sharma3142857?ext=heatmap)
+
+
 - 🔭 I’m currently working on Machine Learning and Artificial Intelligence Projects
   
-- 🌱 I’m currently learning Full Stack web development                       ![Leetcode Stats](https://leetcard.jacoblin.cool/Sharma3142857?ext=heatmap)
+- 🌱 I’m currently learning Full Stack web development                       
   
 - 👯 I’m looking to collaborate on datasets and bugs
    
@@ -14,13 +17,7 @@
 
 
 
-
-
-
-
-
-
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,python,flask,c,cpp,linux,mysql,vscode,wordpress,linkedin,twitter)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,python,flask,c,cpp,linux,mysql,vscode,wordpress,linkedin,twitter)](https://skillicons.dev)
 
   
 
