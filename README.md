@@ -11,7 +11,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/shreshth-s-619230260/                            
 - ✉️ Email:- hel57lan@gmail.com
 
-- #LANGUAGES 
+ # LANGUAGES 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,python,flask,c,cpp,linux,mysql,vscode,wordpress&perline=8)](https://skillicons.dev)
 
