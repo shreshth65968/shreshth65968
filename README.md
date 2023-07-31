@@ -4,10 +4,10 @@
 <!--**shreshth3142857/shreshth3142857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on Machine Learning and Artificial Intelligence Projects                
+
+- 🌱 I’m currently learning Full Stack web development    ![6bd8ef35364c9672c7cbb4687977d3ee](https://github.com/shreshth3142857/shreshth3142857/assets/96594936/c652c563-9af6-4bc7-acc3-65dca2428fc6)                                                                
   
-- 🌱 I’m currently learning Full Stack web development                                                                 
-  
-- 👯 I’m looking to collaborate on datasets and bugs           <iframe src="https://giphy.com/embed/12W5Sg2koWYnwA" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/future-careers-uniblog-12W5Sg2koWYnwA">via GIPHY</a></p>
+- 👯 I’m looking to collaborate on datasets and bugs          
                                              
 - 📫 How to reach me: https://www.linkedin.com/in/shreshth-s-619230260/
                            
