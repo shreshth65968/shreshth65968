@@ -19,6 +19,8 @@
 
  ![snake gif](https://github.com/shreshth3142857/shreshth3142857/blob/output/github-contribution-grid-snake.gif)
 
+  [![Shreshth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreshth3142857&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/shreshth3142857/github-readme-activity-graph)
+
  
 
 
