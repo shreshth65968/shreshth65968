@@ -1,5 +1,6 @@
 #### Hi there 👋,Shreshth here !, I'm still learning and working on improving my skills:-
 
+  [![Sparkline](https://stars.medv.io/shreshth3142857/shreshth3142857.svg)](https://stars.medv.io/shreshth3142857/shreshth3142857)
 
 <!--**shreshth3142857/shreshth3142857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -17,9 +18,9 @@
 
  ![Leetcode Stats](https://leetcard.jacoblin.cool/Sharma3142857?ext=heatmap)
 
- ![snake gif](https://github.com/shreshth3142857/shreshth3142857/blob/output/github-contribution-grid-snake.gif)
 
-  [![Shreshth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreshth3142857&custom_title=This%20is%20a%20title&hide_border=true&theme=react-dark)](https://github.com/shreshth3142857/github-readme-activity-graph)
+
+ 
 
  
 
