@@ -19,7 +19,7 @@
 
  ![snake gif](https://github.com/shreshth3142857/shreshth3142857/blob/output/github-contribution-grid-snake.gif)
 
-  [![Shreshth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreshth3142857&custom_title=This%20is%20a%20title&hide_border=true,bgcolor=black)](https://github.com/shreshth3142857/github-readme-activity-graph)
+  [![Shreshth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreshth3142857&custom_title=This%20is%20a%20title&hide_border=true&theme=react-dark)](https://github.com/shreshth3142857/github-readme-activity-graph)
 
  
 
