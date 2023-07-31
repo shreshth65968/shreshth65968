@@ -1,6 +1,4 @@
-#### Hi there 👋,Shreshth here !, I'm still learning and working on improving my skills:-
-
-  [![Sparkline](https://stars.medv.io/shreshth3142857/shreshth3142857.svg)](https://stars.medv.io/shreshth3142857/shreshth3142857)
+## Hi there 👋,Shreshth here !, I'm still learning and working on improving my skills:-
 
 <!--**shreshth3142857/shreshth3142857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -12,6 +10,8 @@
    
 - 📫 How to reach me: https://www.linkedin.com/in/shreshth-s-619230260/                            
 - ✉️ Email:- hel57lan@gmail.com
+
+- #LANGUAGES 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,python,flask,c,cpp,linux,mysql,vscode,wordpress&perline=8)](https://skillicons.dev)
 
