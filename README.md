@@ -1,14 +1,16 @@
 ## Hi there 👋,Shreshth here !, I'm still learning and working on improving my skills:-
 
+
 <!--**shreshth3142857/shreshth3142857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on Machine Learning and Artificial Intelligence Projects                
   
 - 🌱 I’m currently learning Full Stack web development                                                                 
   
-- 👯 I’m looking to collaborate on datasets and bugs                                               
-   
-- 📫 How to reach me: https://www.linkedin.com/in/shreshth-s-619230260/                            
+- 👯 I’m looking to collaborate on datasets and bugs           <iframe src="https://giphy.com/embed/12W5Sg2koWYnwA" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/future-careers-uniblog-12W5Sg2koWYnwA">via GIPHY</a></p>
+                                             
+- 📫 How to reach me: https://www.linkedin.com/in/shreshth-s-619230260/
+                           
 - ✉️ Email:- hel57lan@gmail.com
 
  # Languages & Tools
