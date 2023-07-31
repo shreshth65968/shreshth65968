@@ -13,7 +13,7 @@
                            
 - ✉️ Email:- hel57lan@gmail.com
 
- # Languages & Tools
+ ## Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,python,flask,c,cpp,linux,mysql,vscode,wordpress&perline=8)](https://skillicons.dev)
 
