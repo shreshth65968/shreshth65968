@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Machine Learning and Artificial Intelligence Projects                
 
-- 🌱 I’m currently learning Full Stack web development    ![6bd8ef35364c9672c7cbb4687977d3ee](https://github.com/shreshth3142857/shreshth3142857/assets/96594936/c652c563-9af6-4bc7-acc3-65dca2428fc6)                                                                
+- 🌱 I’m currently learning Full Stack web development                                                                  
   
 - 👯 I’m looking to collaborate on datasets and bugs          
                                              
