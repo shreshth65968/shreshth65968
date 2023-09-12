@@ -11,7 +11,7 @@
                                              
 - 📫 How to reach me: https://www.linkedin.com/in/shreshth-s-619230260/
                            
-- ✉️ Email:- hel57lan@gmail.com
+- ✉️ Email:- shreshthsharma688@gmail.com
 
  ## Languages & Tools
 
