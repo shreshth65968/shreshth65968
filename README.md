@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning Full Stack web development                                                                  
   
 - 👯 I’m looking to collaborate on datasets and bugs          
-                                             
-- 📫 How to reach me: https://www.linkedin.com/in/shreshth-s-619230260/
                            
 - ✉️ Email:- shreshthsharma688@gmail.com
 
