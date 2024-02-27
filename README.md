@@ -1,4 +1,4 @@
-## Hi there 👋,Shreshth here !, I'm still learning and working on improving my skills:-
+## Hi there 👋:-
 
 
 <!--**shreshth3142857/shreshth3142857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
