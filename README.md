@@ -7,7 +7,8 @@
 
 - 🌱 Also I’m learning Full Stack web development                                                                  
   
-- 🤝 I’m looking to collaborate on datasets and bugs          
+- 🤝 I’m looking to collaborate on datasets and bugs,Technical writing
+           
                            
 - ✉️ Email:- shreshthsharma688@gmail.com
 
