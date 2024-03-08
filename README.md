@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,python,flask,c,cpp,linux,mysql,vscode,wordpress&perline=8)](https://skillicons.dev)
 
 
- <!--- ![Leetcode Stats](https://leetcard.jacoblin.cool/Sharma3142857?ext=heatmap)
+ 
 
 
 
