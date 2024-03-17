@@ -16,6 +16,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,python,flask,c,cpp,linux,mysql,vscode,wordpress&perline=8)](https://skillicons.dev)
 
+## Translation work:
+[Translation of official Django documentation to my native language](https://app.transifex.com/user/profile/shreshth65968/)
+
 
  
 
