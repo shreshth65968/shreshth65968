@@ -10,7 +10,7 @@
 - 🤝 I’m looking to collaborate  | Technical writing | 
            
                            
-- ✉️ Email:- shreshthsharma@acm.org
+- ✉️ Email:- shreshthsharma688@gmail.com
 
  ## Languages & Tools
 
