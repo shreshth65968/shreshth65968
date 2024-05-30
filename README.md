@@ -7,7 +7,7 @@
 
 - 🌱 Also I’m learning Full Stack web development                                                                  
   
-- 🤝 I’m looking to collaborate  | Technical writing | 
+- 🤝 I’m looking to collaborate  | 
            
                            
 - ✉️ Email:- shreshthsharma688@gmail.com
