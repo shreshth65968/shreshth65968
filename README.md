@@ -20,7 +20,8 @@
 So True ! 
 <br>
 <br>
-![2869311-Jaron-Lanier-Quote-People-degrade-themselves-in-order-to-make](https://github.com/shreshth65968/shreshth65968/assets/96594936/d7663cd2-9b18-4515-bd85-7f3313ebf121)
+<img src="https://github.com/shreshth65968/shreshth65968/assets/96594936/d7663cd2-9b18-4515-bd85-7f3313ebf121" width="650" height="400" />
+
 
  
 
