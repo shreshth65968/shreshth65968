@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,python,flask,c,cpp,linux,mysql,vscode,wordpress&perline=8)](https://skillicons.dev)
 
 
-So True !
+So True ! <br>
 ![2869311-Jaron-Lanier-Quote-People-degrade-themselves-in-order-to-make](https://github.com/shreshth65968/shreshth65968/assets/96594936/d7663cd2-9b18-4515-bd85-7f3313ebf121)
 
  
